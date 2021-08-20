@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "letter": "Dog A",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_1.jpg"
+    },
+    {
+        "id": 2,
+        "letter": "Dog C",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_3.jpg"
+    },
+    {
+        "id": 3,
+        "letter": "Dog D",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_4.jpg"
+    },
+    {
+        "id": 4,
+        "letter": "Dog F",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_6.jpg"
+    },
+    {
+        "id": 5,
+        "letter": "Dog G",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_7.jpg"
+    },
+    {
+        "id": 7,
+        "letter": "Dog K",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_11.jpg"
+    },
+    {
+        "id": 8,
+        "letter": "Dog L",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_12.jpg"
+    },
+    {
+        "id": 9,
+        "letter": "Dog M",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_13.jpg"
+    },
+    {
+        "id": 10,
+        "letter": "Dog N",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_14.jpg"
+    },
+    {
+        "id": 11,
+        "letter": "Dog O",
+        "clicked": false,
+        "image" : "assets/dogImg/dogpic_15.jpg"
+    }
+]

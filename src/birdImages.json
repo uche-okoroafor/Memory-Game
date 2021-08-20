@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "letter": "Bird A",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_1.jpg"
+    },
+    {
+        "id": 2,
+        "letter": "Bird C",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_3.jpg"
+    },
+    {
+        "id": 3,
+        "letter": "Bird D",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_4.jpg"
+    },
+    {
+        "id": 4,
+        "letter": "Bird F",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_6.jpg"
+    },
+    {
+        "id": 5,
+        "letter": "Bird G",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_7.jpg"
+    },
+    {
+        "id": 7,
+        "letter": "Bird K",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_11.jpg"
+    },
+    {
+        "id": 8,
+        "letter": "Bird L",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_12.jpg"
+    },
+    {
+        "id": 9,
+        "letter": "Bird M",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_13.jpg"
+    },
+    {
+        "id": 10,
+        "letter": "Bird N",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_14.jpg"
+    },
+    {
+        "id": 11,
+        "letter": "Bird O",
+        "clicked": false,
+        "image" : "assets/birdImg/birdpic_15.jpg"
+    }
+]

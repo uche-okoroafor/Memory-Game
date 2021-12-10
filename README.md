@@ -18,6 +18,4 @@ If you want to run the application locally, follow the instructions below:
 1. Clone repository
 2. Install Dependencies - Run `npm install` in the root directory .
 3. then Run 'npm start'.
-
-
-[![VStreamer](https://user-images.githubusercontent.com/71725892/145043084-3fff7691-61b1-41a4-b322-e72cf313e546.jpg )]()
+![Screenshot (66)](https://user-images.githubusercontent.com/71725892/145614584-a4f910bf-9537-4c52-aa27-6394fd856176.png)

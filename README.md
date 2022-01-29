@@ -9,7 +9,7 @@ Check how good you are with your Memory by playing "Memory Game". To get started
 
 ### Frontend
 
-- [React](https://reactjs.org/) - The framework used for developing the components and UI.
+- [React](https://reactjs.org/) - The framework used for developing the components and User Interface.
 
 ## Installation:
 
